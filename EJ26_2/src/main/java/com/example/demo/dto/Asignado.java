@@ -9,7 +9,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "suministra")
+@Table(name = "asignado")
 public class Asignado {
 
 	// Atribitos
