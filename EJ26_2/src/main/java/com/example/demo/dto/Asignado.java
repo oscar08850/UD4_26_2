@@ -47,19 +47,19 @@ public class Asignado {
 		this.id = id;
 	}
 
-	public Cientifico getPieza() {
+	public Cientifico getCientifico() {
 		return cientifico;
 	}
 
-	public void setPieza(Cientifico pieza) {
+	public void setCientifico(Cientifico pieza) {
 		this.cientifico = pieza;
 	}
 
-	public Proyecto getProveedor() {
+	public Proyecto getProyecto() {
 		return proyecto;
 	}
 
-	public void setProveedor(Proyecto proveedor) {
+	public void setProyecto(Proyecto proveedor) {
 		this.proyecto = proveedor;
 	}
 
